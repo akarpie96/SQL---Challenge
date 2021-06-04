@@ -13,12 +13,12 @@ Primarily two components to the project:
 
 
 ## ERD 
-
+<img src="/QuickDBD-export.png" alt="My cool logo"/>
 
 
 #### Data Analysis
 
-Once you have a complete database, do the following:
+[Querying](/Employee%20SQL/SQL_Challenge.sql) for the following information:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
